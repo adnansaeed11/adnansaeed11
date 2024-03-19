@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 ADNAN SAEED
+
+#### About me
+Enthusiastic student exploring AI and data science, eager to uncover insights from data and use technology to solve problems. Committed to learning and growing in the field to make a positive impact. Passionate about harnessing data for innovation and real-world solutions.
+
+### GitHub Status
+![github status](https://github-readme-stats.vercel.app/api?username=adnansaeed11)
+![github status](https://github-readme-streak-stats.herokuapp.com/?user=adnansaeed11)
+![github status](https://github-readme-stats.vercel.app/api/top-langs/?username=adnansaeed11)
 
 <!--
 **adnansaeed11/adnansaeed11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
