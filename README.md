@@ -8,6 +8,12 @@ Enthusiastic student exploring AI and data science, eager to uncover insights fr
 ![github status](https://github-readme-streak-stats.herokuapp.com/?user=adnansaeed11)
 ![github status](https://github-readme-stats.vercel.app/api/top-langs/?username=adnansaeed11)
 
+- 🔭 I’m currently working with Data Science
+- 🌱 I’m currently learning Artificial Intelligence & Data Science
+- 👯 I’m looking to collaborate on Machine Learning
+- 💬 Ask me about Data Science
+- 📫 How to reach me: saeedadnan151@gmail.com
+
 <!--
 **adnansaeed11/adnansaeed11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
